@@ -1,4 +1,6 @@
 # MobileRobot-Openloopcontrol
+## NAME: Jayagar.T
+## REG.NO: 212224220042
 ## Aim:
 
 To develop a python control code to move the mobilerobot along the predefined path.
